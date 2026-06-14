@@ -260,8 +260,7 @@ http://localhost:8080/EmployeeManagementSystem
 <img width="948" height="920" alt="add-employee" src="https://github.com/user-attachments/assets/8d8ec3d2-7a75-4bde-a581-610a5d2b1664" />
 
 ## Credential Email
-<img width="1257" height="677" alt="image" src="https://github.com/user-attachments/assets/23a1e4c0-f9b0-4c02-959d-5183cffd7826" />
-
+<img width="1240" height="715" alt="image" src="https://github.com/user-attachments/assets/bc16be12-d895-46c0-b9ad-f5a16715d6c6" />
 
 ## Add Employee Dashboard Message
 <img width="950" height="802" alt="add-employee-dashboard" src="https://github.com/user-attachments/assets/76e5b3ad-b795-4d9e-93dc-6ca39963226c" />
@@ -302,4 +301,3 @@ The Heritage Academy, Kolkata
 
 ## License
 MIT License
-This project is developed for academic and educational purposes.
